@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">👋 Hi there, I'm <span style="color:#0077B5;">Muhammad Nauman</span></h1>
-<h3 align="center">🚀 MERN Stack Web & React Native Cross-Platform Developer | Tailwind & Redux Toolkit Enthusiast</h3>
+<h3 align="center">🚀 MERN Stack Web & React Native Cross-Platform Developer | Typescript</h3>
 
 ---
 
