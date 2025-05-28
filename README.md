@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">👋 Hi there, I'm <span style="color:#0077B5;">Muhammad Nauman</span></h1>
-<h3 align="center">🚀 MERN Stack Web & React Native Cross-Platform Developer | Tailwind & Next.js Enthusiast</h3>
+<h3 align="center">🚀 MERN Stack Web & React Native Cross-Platform Developer | Tailwind & Redux Toolkit Enthusiast</h3>
 
 ---
 
@@ -11,7 +11,7 @@
 
 - 🎯 Currently building: **Modern Portfolio Website**
 - 🌱 Learning and growing in: **Advanced MERN Stack + React Native**
-- 💬 Expertise in: **React, Tailwind CSS (ShadCN/Magic UI), Next.js, Clean UI/UX**
+- 💬 Expertise in: **React, Redux Toolkit, Tailwind CSS (ShadCN/Magic UI)**
 - 🧩 Tech Enthusiast | Minimalist Designer | Fast Learner
 - 📫 Reach me: **nauman33183@gmail.com**
 - 🌐 Portfolio: [nauman-portfolio.vercel.app](https://nauman-portfolio.vercel.app)
@@ -31,7 +31,7 @@
 <tr>
 <td align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" title="Next.js" />
+  <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" width="40" title="Redux Toolkit" />
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" title="Tailwind CSS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript" />
 </td>
