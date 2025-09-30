@@ -20,7 +20,7 @@
 
 ---
 
-### 🛠️ Full Tech Stack (🔥 3D Neon Badges)
+### 🛠️ Full Tech Stack
 
 <p align="center">
   
