@@ -16,7 +16,7 @@
 - 🌱 **Currently Exploring:** Advanced DevOps, Docker orchestration, and applying **SOLID principles** to modern API design.  
 - 💬 **Key Skills:** **Bun.js, Microservices, MySQL, Redis, React, Redux Toolkit, TypeScript, TailwindCSS**  
 - 📫 Reach me at: **nauman33183@gmail.com**  
-- 🌐 Portfolio: [nauman-portfolio.vercel.app](https://nauman-portfolio.vercel.app)  
+- 🌐 Portfolio: [www.muhammadnauman.engineer](www.muhammadnauman.engineer)  
 - ⚡ Fun fact: *Execution beats perfection, but Architecture ensures stability.*  
 
 ---
@@ -64,7 +64,7 @@
   <a href="mailto:nauman33183@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://nauman-portfolio.vercel.app" target="_blank">
+  <a href="www.muhammadnauman.engineer" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
