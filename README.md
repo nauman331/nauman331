@@ -1,11 +1,16 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=F59E0B&height=120&section=header&text=Muhammad%20Nauman&fontSize=40&fontColor=FFFFFF&fontAlignY=35&animation=fadeIn" width="100%" alt="Header Banner" />
 </div>
+
 <div align="center">
   <a href="https://github.com/nauman331">
     <img src="https://github.com/nauman331.png" width="150" height="150" alt="Muhammad Nauman" style="border-radius:50%; border:4px solid #F59E0B; box-shadow: 0px 4px 10px rgba(0,0,0,0.3);" />
   </a>
+
+  <br/><br/>
+
   <h2 style="margin-bottom: 0;">Full Stack Engineer | Web, Mobile & AI Systems</h2>
+  
   <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-F59E0B?style=for-the-badge&logo=statuspage&logoColor=0F172A" alt="Status" />
 
   <br/><br/>
@@ -184,21 +189,11 @@ $ whoami
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nauman331&show_icons=true&hide_border=true&bg_color=00000000&title_color=F59E0B&icon_color=F59E0B&text_color=334155&ring_color=F59E0B" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nauman331&layout=compact&hide_border=true&bg_color=00000000&title_color=F59E0B&icon_color=F59E0B&text_color=334155" alt="Top Languages" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=nauman331&hide_border=true&background=00000000&ring=F59E0B&fire=F59E0B&currStreakLabel=F59E0B&sideNums=334155&sideLabels=334155&dates=64748B" alt="GitHub Streak" width="60%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=nauman331&hide_border=true&background=00000000&ring=F59E0B&fire=F59E0B&currStreakLabel=F59E0B&currStreakNum=F59E0B&sideNums=F59E0B&sideLabels=F59E0B&dates=F59E0B" alt="GitHub Streak" width="60%" />
 </div>
 
 <br/>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nauman331&theme=onedark&no-frame=true&column=4&margin-w=8&margin-h=8" alt="GitHub Trophies" width="80%" />
-</div>
-
-<br/>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=F59E0B&height=80&section=footer" width="100%" alt="Footer Banner" />
